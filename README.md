@@ -19,7 +19,7 @@ Veri setini indirdikten sonra:
 
 📁 Dosya yapınız şu şekilde olmalı:
 
-brain_tumor/
+brain_tumor(brian(tumor_var , tumor_yok) model_egitim.py, tahmin.py, veri_yukleme.py, test_image.jpg, beyin_tumoru_modeli.h5, README.md)
 │
 ├── brian/
 │   ├── tumor_var/
